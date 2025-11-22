@@ -1,0 +1,13 @@
+{
+  "name": "graphpad-prism-marketplace",
+  "owner": {
+    "name": "GraphPad Prism Tools"
+  },
+  "plugins": [
+    {
+      "name": "graphpad-prism",
+      "source": "./graphpad-prism",
+      "description": "Expert assistance with GraphPad Prism scientific graphing and statistics software, specializing in Prism scripting for automation, batch processing, and data analysis workflows."
+    }
+  ]
+}

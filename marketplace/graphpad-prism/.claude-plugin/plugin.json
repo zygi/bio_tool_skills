@@ -1,0 +1,8 @@
+{
+  "name": "graphpad-prism",
+  "description": "Expert assistance with GraphPad Prism scientific graphing and statistics software, specializing in Prism scripting for automation, batch processing, and data analysis workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "GraphPad Prism Tools"
+  }
+}
